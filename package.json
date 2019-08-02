@@ -1,6 +1,6 @@
 {
   "name": "node-orangedata",
-  "version": "1.1.32",
+  "version": "1.1.31",
   "description": "Node.js integration for OrangeData service",
   "license": "MIT",
   "main": "lib",
@@ -15,9 +15,13 @@
     "url": "https://github.com/orangedata-official/node-orangedata/issues"
   },
   "author": {
-    "name": "Alexander Babyuk",
+    "name": "Sergey Kunin",
+    "email": "sk@stapps.ru",
     "url": "https://github.com/orangedata-official"
   },
+  "contributors": [
+    "Alexander Babyuk <a.babyuk@abr-region.ru>"
+  ],
   "scripts": {
     "test": "node examples/index",
     "postversion": "git push && git push --tags"
