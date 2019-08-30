@@ -1,4 +1,4 @@
-> Forked for expand dictionary
+> Forked for expand dictionary (API VERSION: 2.23.0)
 
 <div align="center">Node.js integration for OrangeData service</div>
 
